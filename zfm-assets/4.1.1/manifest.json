@@ -1,0 +1,257 @@
+{
+  "schema": 1,
+  "version": "4.1.1",
+  "api": "cactus",
+  "source_commit": "7a182ac16ff229a1704717c8c0d363cac006891f",
+  "platforms": [
+    "macos-arm64",
+    "linux-x86_64",
+    "linux-arm64",
+    "linux-armv7",
+    "linux-riscv64",
+    "linux-mipsel",
+    "windows-x86_64",
+    "windows-arm64",
+    "android-arm64",
+    "android-armv7",
+    "android-riscv64",
+    "ios-arm64",
+    "ios-sim-arm64",
+    "watchos-arm64",
+    "tvos-arm64",
+    "wasm",
+    "wasm-component"
+  ],
+  "wheel_tags": [
+    "macosx_11_0_arm64",
+    "macosx_11_0_x86_64",
+    "manylinux2014_aarch64",
+    "manylinux2014_x86_64",
+    "musllinux_1_2_aarch64",
+    "musllinux_1_2_x86_64",
+    "win_amd64",
+    "win_arm64"
+  ],
+  "files": {
+    "LICENSE": {
+      "size": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    "android-arm64/cactus": {
+      "size": 1634392,
+      "sha256": "1b2f389734c1e3632dd7df2c5eccc230562fcfaa17601a4d5b90cd49b9e53ae1"
+    },
+    "android-arm64/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "android-arm64/libcactus.a": {
+      "size": 2822132,
+      "sha256": "01b91dae81d7e94ce55691376838d8b10453d33d7433ddd1b59bf4a9669012b9"
+    },
+    "android-armv7/cactus": {
+      "size": 1000496,
+      "sha256": "56c21befeee69d8b93c45d959ca517143790e1616b0c132b58c2ff97585cf191"
+    },
+    "android-armv7/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "android-armv7/libcactus.a": {
+      "size": 2244914,
+      "sha256": "f1b846d2fca91d80d7cc6b4d0deca72c2af993e5fa54eb5a467f5a07a38a7efa"
+    },
+    "android-riscv64/cactus": {
+      "size": 1777448,
+      "sha256": "430955ea6f1654cfa8e03a0b0579d60ca3e96e0ce214aa5a787fd1349531b5d8"
+    },
+    "android-riscv64/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "android-riscv64/libcactus.a": {
+      "size": 6761762,
+      "sha256": "c611651a0a4de08d301391a3d08ad334f9585ac29073d891aab224286b8c22d6"
+    },
+    "ios-arm64/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "ios-arm64/libcactus.a": {
+      "size": 1963224,
+      "sha256": "134739c1e867a5927374baa68d2ac0621ac293be9b7fab8379d94a70904a7966"
+    },
+    "ios-sim-arm64/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "ios-sim-arm64/libcactus.a": {
+      "size": 2020144,
+      "sha256": "ea0f3263035fb7183b545d4added7027e00fd0d94abeb1f7b786065ce9052281"
+    },
+    "linux-arm64/cactus": {
+      "size": 1484448,
+      "sha256": "2b883ca10f3729b4b699816c641a0a20e31625e393b563544fe17f1834a86c6c"
+    },
+    "linux-arm64/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "linux-arm64/libcactus.a": {
+      "size": 2619868,
+      "sha256": "365affa5087be1119f7631f2c83f7e7fe437903d719e1f4c976a08473346b48c"
+    },
+    "linux-armv7/cactus": {
+      "size": 1287912,
+      "sha256": "14c9606941aa00df7cdbeda98b3ddf99bdeb5d43053cb74f1ef23fafc3bc8fda"
+    },
+    "linux-armv7/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "linux-armv7/libcactus.a": {
+      "size": 2367646,
+      "sha256": "50d437bbe6d0b4d9c244661b448dae43b5d57cfd0041c5d7ec9ade42e7e08a5c"
+    },
+    "linux-mipsel/cactus": {
+      "size": 1818352,
+      "sha256": "b623e686c157b81d5a4882624fceb660abf655424dcb5fbe28049a34f0e15efb"
+    },
+    "linux-mipsel/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "linux-mipsel/libcactus.a": {
+      "size": 2251870,
+      "sha256": "9b13bfc644eee2712f62de53b458be0bb93a5c7eedcc574c1a64812ebb77e4d4"
+    },
+    "linux-riscv64/cactus": {
+      "size": 1230864,
+      "sha256": "e93d0c404357f293713fcb780f81178424aa42ed4f2f5c936658cd00a51ae301"
+    },
+    "linux-riscv64/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "linux-riscv64/libcactus.a": {
+      "size": 2517938,
+      "sha256": "c17e1f7811fd223e8e6c6d8206af34655b76173abe4f4028592bc68e41a64dbe"
+    },
+    "linux-x86_64/cactus": {
+      "size": 1602352,
+      "sha256": "28f16da0ed8ec48929d4185e3cdca43cd462f05f052ed0c64a839d67bf1f5730"
+    },
+    "linux-x86_64/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "linux-x86_64/libcactus.a": {
+      "size": 2854826,
+      "sha256": "913f3d71f1eae9dc7734700380689ba8872a092da92fffd56ed6cf4308ffb038"
+    },
+    "macos-arm64/cactus": {
+      "size": 1139768,
+      "sha256": "4624dbbdf0e81ad61f4824cd708382313431a4419fd780f834d12bf8e4e723c2"
+    },
+    "macos-arm64/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "macos-arm64/libcactus.a": {
+      "size": 2021472,
+      "sha256": "f611ff8be89764be29bba251a97cba1b15382658e1739d35f873b587fda5554d"
+    },
+    "python/cactus_runtime-4.1.1-py3-none-macosx_11_0_arm64.whl": {
+      "size": 722805,
+      "sha256": "16ce3c02e87db1ef3ab3974d5d31ff0680bb1004cd49b3606d5cfe4db8b9b536"
+    },
+    "python/cactus_runtime-4.1.1-py3-none-macosx_11_0_x86_64.whl": {
+      "size": 781063,
+      "sha256": "a1c382375b6df5f1f57f075e48c5fcd9da84b666a2c97bd4b49c10543b8b905f"
+    },
+    "python/cactus_runtime-4.1.1-py3-none-manylinux2014_aarch64.whl": {
+      "size": 822733,
+      "sha256": "5b67ab4a5b44ee846e7662940e2dd854006ec8766c63c81405338428576e914d"
+    },
+    "python/cactus_runtime-4.1.1-py3-none-manylinux2014_x86_64.whl": {
+      "size": 856749,
+      "sha256": "b48fe924d108f84bbe265539920b1b2b98daf936e22af461408f1856a41546d6"
+    },
+    "python/cactus_runtime-4.1.1-py3-none-musllinux_1_2_aarch64.whl": {
+      "size": 822507,
+      "sha256": "d2cba6fba4cca494298c75259a881da62bcac543b0da8fddf92678566d811a2e"
+    },
+    "python/cactus_runtime-4.1.1-py3-none-musllinux_1_2_x86_64.whl": {
+      "size": 857831,
+      "sha256": "ae4f0f9d7245f37da155816e8ef62725dea905dc3c47664416105fba7dd3698f"
+    },
+    "python/cactus_runtime-4.1.1-py3-none-win_amd64.whl": {
+      "size": 865905,
+      "sha256": "876eea21e31bcad795b9e84cfaadf65e01a32a64ef113c8b77616d33ab8e3169"
+    },
+    "python/cactus_runtime-4.1.1-py3-none-win_arm64.whl": {
+      "size": 785327,
+      "sha256": "a5cebd1cac7cb5e54f0405a2c6e5f492e5c103fd2cc9895a766583575c3c70ce"
+    },
+    "tvos-arm64/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "tvos-arm64/libcactus.a": {
+      "size": 1963272,
+      "sha256": "13dbc117e389ff95ce0a8b20882b2e9febb59687f050b0c9a7d2aa205f0d9ff2"
+    },
+    "wasm/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "wasm/cactus.js": {
+      "size": 62247,
+      "sha256": "707341e44776ab0eb8dfc8f6a579ed5ac41e2ffc6419a18012f61619a6dfc70c"
+    },
+    "wasm/cactus.wasm": {
+      "size": 1240671,
+      "sha256": "2de0a4459ed427c258157fcb6128265f72f405e7464b25d713bbd336b15bcacf"
+    },
+    "wasm-component/cactus.component.wasm": {
+      "size": 4543780,
+      "sha256": "10acdcc7d8f5f887bf15161688722f7a40eea8b5582a3322c54e386713bd2d44"
+    },
+    "wasm-component/cactus.wit": {
+      "size": 527,
+      "sha256": "75b710e04228732e7ad3aca3af666bf1023fc8b59f472dc3adb85cfcc8daa90d"
+    },
+    "watchos-arm64/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "watchos-arm64/libcactus.a": {
+      "size": 4048848,
+      "sha256": "55b4b868694625ed145496cb2b1a7cd6b5c6462382972e336bfd9f687b1ca055"
+    },
+    "windows-arm64/cactus.exe": {
+      "size": 1397760,
+      "sha256": "a3d5b5f8bc3f533b38dd5d5e98ef4e20ca8d9760cb6149bd8919ffada595813b"
+    },
+    "windows-arm64/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "windows-arm64/libcactus.a": {
+      "size": 2728848,
+      "sha256": "43a14898942f9b526c0514c2f4dd1aa6200b4af9c5cdee682633c15cee502a5e"
+    },
+    "windows-x86_64/cactus.exe": {
+      "size": 1619456,
+      "sha256": "bf8d7613dddc03f8f5405fdfc4a8e213941efd01701bbc979fe67505f44000c5"
+    },
+    "windows-x86_64/cactus.h": {
+      "size": 1721,
+      "sha256": "9be7eb25b1d89180495d04a0d2c27053f282dac85add50cacc48d73302819d9d"
+    },
+    "windows-x86_64/libcactus.a": {
+      "size": 3022488,
+      "sha256": "1c667e54b46944e971fd74445fc735b3e8b0710c265deed7713e003e781a7862"
+    }
+  }
+}
